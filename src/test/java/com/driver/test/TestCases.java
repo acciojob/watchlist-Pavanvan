@@ -19,5 +19,5 @@ import com.driver.Application;
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class TestCases {
 
-    
+
 }
