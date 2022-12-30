@@ -1,11 +1,14 @@
 package com.driver;
+
 public class Director {
 
     private String name;
+
     private int numberOfMovies;
+
     private double imdbRating;
 
-    public void Director(){
+    public Director() {
 
     }
 
